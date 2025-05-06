@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6ABFF,50:1A6DFF,100:C822FF,150:6DC7FF&height=200&section=header&text=Hi%20I'm%20Dilshod%20👋&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Dilshod%20👋&fontSize=40&fontAlignY=35" />
 </p>
 
 <!-- Social Media Icons -->
