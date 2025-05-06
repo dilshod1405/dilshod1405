@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Dilshod%20👋&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Dilshod%20👋&fontSize=40&fontAlignY=35" />
 </p>
 
 <!-- Social Media Icons -->
@@ -21,14 +21,15 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Dilshod Normurodov
-role: Full Stack Developer
-location: Tashkent, Uzbekistan 🇺🇿
-education: PDP Academy
-languages:
+Fullname: Dilshod Normurodov
+Role: Full Stack Developer
+Location: Tashkent, Uzbekistan 🇺🇿
+Education: PDP Academy, Udemy
+Languages:
   - Uzbek (Native)
-  - English (Professional)
-  - Russian (Intermediate)
+  - English (B2)
+  - Russian (B2)
+  - Korean (B1)
 ```
 
 ---
@@ -42,6 +43,7 @@ languages:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
