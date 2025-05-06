@@ -1,0 +1,26 @@
+name: Update Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This will run the action every day at midnight
+  workflow_dispatch:
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Contribution Snake
+        uses: Platane/snk@v2
+        with:
+          github_user: 'dilshod1405'
+          svg_out_path: 'github-contribution-grid-snake.svg'
+
+      - name: Commit & Push the Snake Image
+        uses: ad-m/github-push-action@v0.6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          file_path: github-contribution-grid-snake.svg
