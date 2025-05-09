@@ -22,7 +22,7 @@
 
 ```yaml
 Fullname: Dilshod Normurodov
-Role: Full Stack Developer
+Role: Software Developer
 Location: Tashkent, Uzbekistan 🇺🇿
 Education: PDP Academy, Udemy
 Languages:
