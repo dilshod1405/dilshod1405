@@ -14,6 +14,9 @@
   <a href="https://www.instagram.com/shod_developer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@shod_developer">
+    <img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
