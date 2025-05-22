@@ -4,17 +4,20 @@ USERNAME = "dilshod1405"
 README_PATH = "README.md"
 START = "START_SECTION:repos"
 END = "END_SECTION:repos"
-MAX_REPOS = 5
+MAX_REPOS = 3
 
 def get_repos():
     url = f"https://api.github.com/users/{USERNAME}/repos?sort=updated&per_page={MAX_REPOS}"
     res = requests.get(url)
     res.raise_for_status()
     repos = res.json()
-    return [
-        f"- [{repo['name']}]({repo['html_url']}) - ⭐ {repo['stargazers_count']} | {repo['description'] or 'No description'}"
-        for repo in repos
-    ]
+    for repo in repos:
+        if repo['parivate'] == false:
+            return [f"- [{repo['name']}]({repo['html_url']}) - ⭐ {repo['stargazers_count']} | {repo['description'] or 'No description'}"]
+    # return [
+    #     f"- [{repo['name']}]({repo['html_url']}) - ⭐ {repo['stargazers_count']} | {repo['description'] or 'No description'}"
+    #     for repo in repos
+    # ]
 
 def update_readme(repos_md):
     with open(README_PATH, "r", encoding="utf-8") as f:
