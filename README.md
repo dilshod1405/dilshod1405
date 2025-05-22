@@ -22,7 +22,7 @@
 
 ```yaml
 Fullname: Dilshod Normurodov
-Role: Software Developer
+Role: Backend Developer
 Location: Tashkent, Uzbekistan 🇺🇿
 Education: PDP Academy, Udemy
 Languages:
@@ -61,8 +61,8 @@ Languages:
 
 ### 📂 Latest Repositories
 
-<!--START_SECTION:repos-->
-<!--END_SECTION:repos-->
+START_SECTION:repos
+END_SECTION:repos
 
 ---
 
