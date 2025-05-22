@@ -1,35 +1,36 @@
-name: Generate Snake
+name: Generate Snake & Update Repos
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Har kuni UTC 00:00 da
+    - cron: "0 0 * * *"  # Har kuni UTC 00:00 da ishga tushadi
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: 📥 Checkout repository files
+        uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Install requests
+      - name: 📦 Install dependencies
         run: pip install requests
 
-      - name: Run script to update README
+      - name: 🔁 Update README with latest repos
         run: python .github/scripts/update_repos.py
 
-      - uses: Platane/snk@v3
+      - name: 🐍 Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: "dilshod1405"
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: 🚀 Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
