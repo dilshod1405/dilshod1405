@@ -11,13 +11,14 @@ def get_repos():
     res = requests.get(url)
     res.raise_for_status()
     repos = res.json()
+
+    repos_md = []
     for repo in repos:
-        if repo['parivate'] == false:
-            return [f"- [{repo['name']}]({repo['html_url']}) - ⭐ {repo['stargazers_count']} | {repo['description'] or 'No description'}"]
-    # return [
-    #     f"- [{repo['name']}]({repo['html_url']}) - ⭐ {repo['stargazers_count']} | {repo['description'] or 'No description'}"
-    #     for repo in repos
-    # ]
+        if not repo['private']:
+            repos_md.append(
+                f"- [{repo['name']}]({repo['html_url']}) - ⭐ {repo['stargazers_count']} | {repo['description'] or 'No description'}"
+            )
+    return repos_md
 
 def update_readme(repos_md):
     with open(README_PATH, "r", encoding="utf-8") as f:
