@@ -61,9 +61,8 @@ Languages:
 
 ### 📂 Latest Repositories
 
-START_SECTION:repos
-
-END_SECTION:repos
+<!-- START_SECTION:repos -->
+<!-- END_SECTION:repos -->
 
 ---
 
