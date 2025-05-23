@@ -64,11 +64,11 @@ Languages:
 
 ### 📂 Latest Repositories
 
-<!-- START_SECTION:repos-->
+<!-- START_SECTION:repos
 - [dilshod1405](https://github.com/dilshod1405/dilshod1405) - ⭐ 0 | No description
 - [edvent.uz](https://github.com/dilshod1405/edvent.uz) - ⭐ 1 | Online learning platform frontend side in Next.js
 - [edvent-service](https://github.com/dilshod1405/edvent-service) - ⭐ 1 | Server side of Edvent online learning platform
-<!--END_SECTION:repos -->
+END_SECTION:repos -->
 
 ---
 
