@@ -62,7 +62,7 @@ Languages:
 
 ---
 
-### 📂 Latest Repositories
+<!--### 📂 Latest Repositories-->
 
 <!-- START_SECTION:repos
 - [edvent-chat](https://github.com/dilshod1405/edvent-chat) - ⭐ 0 | Chatting service between support teachers and students for every lesson. This service is developed in node.js
