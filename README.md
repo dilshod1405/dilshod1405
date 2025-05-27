@@ -65,8 +65,8 @@ Languages:
 <!--### 📂 Latest Repositories-->
 
 <!-- START_SECTION:repos
-- [edvent-service](https://github.com/dilshod1405/edvent-service) - ⭐ 1 | Server side of Edvent online learning platform
 - [edvent.uz](https://github.com/dilshod1405/edvent.uz) - ⭐ 1 | Online learning platform frontend side in Next.js
+- [vchdbuxoro](https://github.com/dilshod1405/vchdbuxoro) - ⭐ 0 | Server side project of the official website of the Bukhara Wagon Depot of the Uzbekistan Railways Company
 - [dilshod1405](https://github.com/dilshod1405/dilshod1405) - ⭐ 0 | No description
 END_SECTION:repos -->
 
