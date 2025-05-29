@@ -65,9 +65,9 @@ Languages:
 <!--### 📂 Latest Repositories-->
 
 <!-- START_SECTION:repos
+- [vchdbuxoro.uz](https://github.com/dilshod1405/vchdbuxoro.uz) - ⭐ 0 | Frontend part of vchdbuxoro.uz website in Next.js for UzRailways company
 - [dilshod1405](https://github.com/dilshod1405/dilshod1405) - ⭐ 0 | No description
 - [edvent.uz](https://github.com/dilshod1405/edvent.uz) - ⭐ 1 | Online learning platform frontend side in Next.js
-- [vchdbuxoro](https://github.com/dilshod1405/vchdbuxoro) - ⭐ 0 | Server side project of the official website of the Bukhara Wagon Depot of the Uzbekistan Railways Company
 END_SECTION:repos -->
 
 ---
