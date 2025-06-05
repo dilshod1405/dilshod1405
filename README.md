@@ -66,8 +66,8 @@ Languages:
 
 <!-- START_SECTION:repos
 - [edvent.uz](https://github.com/dilshod1405/edvent.uz) - ⭐ 1 | Online learning platform frontend side in Next.js
+- [vchdbuxoro.uz](https://github.com/dilshod1405/vchdbuxoro.uz) - ⭐ 0 | Frontend part of vchdbuxoro.uz website in Next.js for UzRailways company
 - [edvent-service](https://github.com/dilshod1405/edvent-service) - ⭐ 1 | Server side of Edvent online learning platform
-- [dilshod1405](https://github.com/dilshod1405/dilshod1405) - ⭐ 0 | No description
 END_SECTION:repos -->
 
 ---
