@@ -66,8 +66,8 @@ Languages:
 
 <!-- START_SECTION:repos
 - [vchdbuxoro](https://github.com/dilshod1405/vchdbuxoro) - ⭐ 0 | Server side project of the official website of the Bukhara Wagon Depot of the Uzbekistan Railways Company
-- [vchdbuxoro.uz](https://github.com/dilshod1405/vchdbuxoro.uz) - ⭐ 0 | Frontend part of vchdbuxoro.uz website in Next.js for UzRailways company
 - [dilshod1405](https://github.com/dilshod1405/dilshod1405) - ⭐ 0 | No description
+- [vchdbuxoro.uz](https://github.com/dilshod1405/vchdbuxoro.uz) - ⭐ 0 | Frontend part of vchdbuxoro.uz website in Next.js for UzRailways company
 END_SECTION:repos -->
 
 ---
