@@ -65,8 +65,8 @@ Languages:
 <!--### 📂 Latest Repositories-->
 
 <!-- START_SECTION:repos
-- [vchdbuxoro](https://github.com/dilshod1405/vchdbuxoro) - ⭐ 0 | Server side project of the official website of the Bukhara Wagon Depot of the Uzbekistan Railways Company
 - [edvent.uz](https://github.com/dilshod1405/edvent.uz) - ⭐ 1 | Online learning platform frontend side in Next.js
+- [edvent-chat](https://github.com/dilshod1405/edvent-chat) - ⭐ 0 | Chatting service between support teachers and students for every lesson. This service is developed in node.js
 - [edvent-service](https://github.com/dilshod1405/edvent-service) - ⭐ 1 | Server side of Edvent online learning platform
 END_SECTION:repos -->
 
