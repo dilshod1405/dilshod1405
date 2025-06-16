@@ -65,9 +65,9 @@ Languages:
 <!--### 📂 Latest Repositories-->
 
 <!-- START_SECTION:repos
-- [expenses-b](https://github.com/dilshod1405/expenses-b) - ⭐ 0 | Backend flask app for providing api about expenses, which are saved in csv file
-- [expense-f](https://github.com/dilshod1405/expense-f) - ⭐ 0 | Graphical UI in React for expenses of Company
-- [dilshod1405](https://github.com/dilshod1405/dilshod1405) - ⭐ 0 | No description
+- [edvent.uz](https://github.com/dilshod1405/edvent.uz) - ⭐ 1 | Online learning platform frontend side in Next.js
+- [edvent-service](https://github.com/dilshod1405/edvent-service) - ⭐ 1 | Server side of Edvent online learning platform
+- [edvent-chat](https://github.com/dilshod1405/edvent-chat) - ⭐ 0 | Chatting service between support teachers and students for every lesson. This service is developed in node.js
 END_SECTION:repos -->
 
 ---
