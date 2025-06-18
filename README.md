@@ -100,7 +100,7 @@ timeline
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:dilshod@example.com"><img src="https://img.shields.io/badge/Email-Dilshod%40example.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="mailto:dilshod.normurodov1392@gmail.com"><img src="https://img.shields.io/badge/Email-dilshod.normurodov1392@gmail.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
   <a href="https://t.me/architect_developer"><img src="https://img.shields.io/badge/Telegram-@architect_developer-blue?style=flat-square&logo=telegram" alt="Telegram" /></a>
   <a href="https://www.instagram.com/shod_developer"><img src="https://img.shields.io/badge/Instagram-@shod_developer-blue?style=flat-square&logo=instagram" alt="Instagram" /></a> 
   <a href="https://linkedin.com/in/dilshod-normurodov-0b886824b"><img src="https://img.shields.io/badge/LinkedIn-Dilshod%20Normurodov-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
