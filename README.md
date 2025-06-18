@@ -2,7 +2,7 @@
    🎨 Animated Gradient Header with Wave
 ========================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%2C%20I am Dilshod%20🤝&fontSize=48&animation=twinkle" alt="Waving Hello" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%2C%20I%20am%20Dilshod%20%F0%9F%A4%9D&fontSize=48&animation=twinkle" alt="Waving Hello" />
 </p>
 
 ---
