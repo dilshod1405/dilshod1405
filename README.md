@@ -65,9 +65,9 @@ Languages:
 <!--### 📂 Latest Repositories-->
 
 <!-- START_SECTION:repos
+- [dilshod1405](https://github.com/dilshod1405/dilshod1405) - ⭐ 0 | No description
 - [edvent-service](https://github.com/dilshod1405/edvent-service) - ⭐ 1 | Server side of Edvent online learning platform
 - [py-codespices](https://github.com/dilshod1405/py-codespices) - ⭐ 0 | No description
-- [dilshod1405](https://github.com/dilshod1405/dilshod1405) - ⭐ 0 | No description
 END_SECTION:repos -->
 
 ---
