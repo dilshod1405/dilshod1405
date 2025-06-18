@@ -2,12 +2,12 @@
    🎨 Animated Gradient Header with Wave
 ========================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=peach&height=180&section=header&text=Salom%2C%20Dilshodjon%20🤝&fontSize=48&animation=twinkle" alt="Waving Hello" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%2C%20I am Dilshod%20🤝&fontSize=48&animation=twinkle" alt="Waving Hello" />
 </p>
 
 ---
 
-## 📚 MUNDARIJA
+## 📚 TABLE OF CONTENTS
 1. [👤 About Me](#-about-me)  
 2. [🛠️ Tech Stack & Skills](#️-tech-stack--skills)  
 3. [💼 Experience](#-experience)  
@@ -24,19 +24,18 @@
   <img src="https://komarev.com/ghpvc/?username=dilshod1405&style=flat-square" alt="Profile views" />
 </p>
 
-> **Backend & Fullstack Developer**  
-> Django, FastAPI, React, Docker bo‘yicha ixtisoslashgan, har doim yangi texnologiyalarni o‘rganishga intilaman.
+> **Backend Developer**  
+> Specialized in Django, FastAPI, React, and Docker. Passionate about learning new technologies and exploring innovative ideas.
 
-| 🔭 Hozirgi loyihalar            | 🌱 O‘rganayotgan mavzular         | 🤔 Qidirayotgan g‘oyalar       |
-|----------------------------------|----------------------------------|--------------------------------|
-| Edvent – o‘quv platforma backend | Microservices arxitekturasi      | Open-source hamkorlik loyihalari |
-| YouTube→MP3 downloader REST API  | Kubernetes & Cloud DevOps        | AI & Chatbot integratsiyalari   |
+| 🔭 Current Projects              | 🌱 Currently Learning               | 🤔 Looking For Ideas                |
+|----------------------------------|-------------------------------------|-------------------------------------|
+| Edvent.uz – Educational Platform | Microservices Architecture in Java  | Open-source collaboration projects |
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 🔧 Asosiy Texnologiyalar
+### 🔧 Core Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Django-85%25-092E20?style=flat-square&logo=django" alt="Django" />
@@ -52,6 +51,7 @@ Python      ■■■■■■■■■■□ 90%
 Django      ■■■■■■■■■□□ 85%
 FastAPI     ■■■■■■■■□□□ 80%
 React       ■■■■■■■□□□□ 75%
+Next.js       ■■■■■■■□□□□ 75%
 Docker      ■■■■■■■■□□□ 80%
 PostgreSQL  ■■■■■□□□□□ 70%
 ```
@@ -62,11 +62,10 @@ PostgreSQL  ■■■■■□□□□□ 70%
 
 ```mermaid
 timeline
-    title Ish tajribam
-    2019 : Junior Backend Developer @ XYZ kompaniya
-    2021 : Mid-level Developer @ ABC Tech
-    2023 : Lead Developer @ ITTIFOQ Academy
-    2025 : Freelance va Open-Source loyihalar
+    title My Work Experience
+    2021 : Developer @ Agency of External Labor Migration of Uzbekistan
+    2024 : Freelancer in Upwork
+    2025 : Edvent.uz @ I developed edvent project from scratch
 ```
 
 ---
@@ -75,27 +74,17 @@ timeline
 
 | Nomi                   | Tavsif                                            | Link                                         |
 |------------------------|---------------------------------------------------|----------------------------------------------|
-| **Edvent Service**     | O‘quv platforma uchun REST API (Django + DRF)     | [GitHub](https://github.com/dilshod1405/edvent-service) |
-| **YT→MP3 Downloader**  | YouTube’dan MP3 yuklab olish REST API (Flask)     | [GitHub](https://github.com/dilshod1405/ytmp3-api)       |
-| **Py Codespices**      | Python mini loyihalar to‘plami                    | [GitHub](https://github.com/dilshod1405/py-codespices)  |
+| **Edvent Service**     | REST API for an educational platform (Django)     | [GitHub](https://github.com/dilshod1405/edvent-service) |
+| **Edvent Chat**     | Real-time chat with Node.js + socket.io     | [GitHub](https://github.com/dilshod1405/edvent-chat) |
+| **Edvent Frontend**     | Creative UI and dashboard for students     | [GitHub](https://github.com/dilshod1405/edvent.uz) |
 
 ---
 
 ## 🎓 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Udemy-Python%20Bootcamp-blue?style=for-the-badge&logo=Udemy" alt="Udemy Certificate" />
-  <img src="https://img.shields.io/badge/PDP-Academy-FF5733?style=for-the-badge&logo=Udemy" alt="PDP Academy" />
+  <img src="https://img.shields.io/badge/PDP-Academy-FF5733?style=for-the-badge&logo=PDP" alt="PDP Academy" />
 </p>
-
----
-
-## ✍️ Blog & Writing
-
-- [My Technical Blog](https://medium.com/@dilshoddev)  
-- So‘nggi maqola: “[FastAPI bilan Tez API Qurish](#)”  
-
----
 
 ## 📈 GitHub Stats
 
@@ -114,11 +103,12 @@ timeline
 <p align="center">
   <a href="mailto:dilshod@example.com"><img src="https://img.shields.io/badge/Email-Dilshod%40example.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
   <a href="https://t.me/architect_developer"><img src="https://img.shields.io/badge/Telegram-@architect_developer-blue?style=flat-square&logo=telegram" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/shod_developer"><img src="https://img.shields.io/badge/Instagram-@shod_developer-blue?style=flat-square&logo=instagram" alt="Instagram" /></a> 
   <a href="https://linkedin.com/in/dilshod-normurodov-0b886824b"><img src="https://img.shields.io/badge/LinkedIn-Dilshod%20Normurodov-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>README har doim yangilanib turadi va texnologiyalar tajribasiga qarab kengaytiriladi. 🚀</sub>
+  <sub>This README is regularly updated and expanded based on evolving skill sets and technologies. 🚀</sub>
 </p>
