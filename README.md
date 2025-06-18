@@ -91,7 +91,6 @@ timeline
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshod1405&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
