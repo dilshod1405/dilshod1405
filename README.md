@@ -1,124 +1,124 @@
-<!-- Animated Gradient Header with Wave -->
+<!-- ==========================================
+   🎨 Animated Gradient Header with Wave
+========================================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20I'm%20Dilshod%20👋&fontSize=45&animation=twinkle" 
-    alt="Waving Hello" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=peach&height=180&section=header&text=Salom%2C%20Dilshodjon%20🤝&fontSize=48&animation=twinkle" alt="Waving Hello" />
 </p>
 
 ---
 
-<!-- Social Media Animated Buttons -->
+## 📚 MUNDARIJA
+1. [👤 About Me](#-about-me)  
+2. [🛠️ Tech Stack & Skills](#️-tech-stack--skills)  
+3. [💼 Experience](#-experience)  
+4. [🚀 Projects](#-projects)  
+5. [🎓 Certifications](#-certifications)  
+6. [✍️ Blog & Writing](#️-blog--writing)  
+7. [📈 GitHub Stats](#-github-stats)  
+8. [📫 Contact Me](#-contact-me)  
+
+---
+
+## 👤 About Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/dilshod-normurodov-0b886824b/" target="_blank" rel="noopener">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn" 
-      style="transition: transform 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </a>
-  <a href="https://t.me/architect_developer" target="_blank" rel="noopener">
-    <img 
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" 
-      alt="Telegram" 
-      style="transition: transform 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </a>
-  <a href="https://www.instagram.com/shod_developer" target="_blank" rel="noopener">
-    <img 
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-      alt="Instagram" 
-      style="transition: transform 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </a>
-  <a href="https://www.youtube.com/@shod_developer" target="_blank" rel="noopener">
-    <img 
-      src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" 
-      alt="YouTube" 
-      style="transition: transform 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=dilshod1405&style=flat-square" alt="Profile views" />
+</p>
+
+> **Backend & Fullstack Developer**  
+> Django, FastAPI, React, Docker bo‘yicha ixtisoslashgan, har doim yangi texnologiyalarni o‘rganishga intilaman.
+
+| 🔭 Hozirgi loyihalar            | 🌱 O‘rganayotgan mavzular         | 🤔 Qidirayotgan g‘oyalar       |
+|----------------------------------|----------------------------------|--------------------------------|
+| Edvent – o‘quv platforma backend | Microservices arxitekturasi      | Open-source hamkorlik loyihalari |
+| YouTube→MP3 downloader REST API  | Kubernetes & Cloud DevOps        | AI & Chatbot integratsiyalari   |
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🔧 Asosiy Texnologiyalar
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-85%25-092E20?style=flat-square&logo=django" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-80%25-009688?style=flat-square&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-75%25-61DAFB?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-80%25-2496ED?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-70%25-336791?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+</p>
+
+### 🔭 Skill Progress
+```text
+Python      ■■■■■■■■■■□ 90%
+Django      ■■■■■■■■■□□ 85%
+FastAPI     ■■■■■■■■□□□ 80%
+React       ■■■■■■■□□□□ 75%
+Docker      ■■■■■■■■□□□ 80%
+PostgreSQL  ■■■■■□□□□□ 70%
+```
+
+---
+
+## 💼 Experience
+
+```mermaid
+timeline
+    title Ish tajribam
+    2019 : Junior Backend Developer @ XYZ kompaniya
+    2021 : Mid-level Developer @ ABC Tech
+    2023 : Lead Developer @ ITTIFOQ Academy
+    2025 : Freelance va Open-Source loyihalar
+```
+
+---
+
+## 🚀 Projects
+
+| Nomi                   | Tavsif                                            | Link                                         |
+|------------------------|---------------------------------------------------|----------------------------------------------|
+| **Edvent Service**     | O‘quv platforma uchun REST API (Django + DRF)     | [GitHub](https://github.com/dilshod1405/edvent-service) |
+| **YT→MP3 Downloader**  | YouTube’dan MP3 yuklab olish REST API (Flask)     | [GitHub](https://github.com/dilshod1405/ytmp3-api)       |
+| **Py Codespices**      | Python mini loyihalar to‘plami                    | [GitHub](https://github.com/dilshod1405/py-codespices)  |
+
+---
+
+## 🎓 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Udemy-Python%20Bootcamp-blue?style=for-the-badge&logo=Udemy" alt="Udemy Certificate" />
+  <img src="https://img.shields.io/badge/PDP-Academy-FF5733?style=for-the-badge&logo=Udemy" alt="PDP Academy" />
 </p>
 
 ---
 
-<!-- About Me with Stylish Box -->
-<p align="center">
-  <kbd style="background:#222; border-radius:12px; padding: 20px; font-size:16px; font-weight:600; color:#39ff14; letter-spacing:0.06em;">
-    <span style="animation: pulseGlow 2s infinite;">👨‍💻 About Me</span>
-  </kbd>
-</p>
+## ✍️ Blog & Writing
 
-<p align="center" style="max-width: 650px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <b>Full Name:</b> <code>Dilshod Normurodov</code><br />
-  <b>Role:</b> <code>Backend Developer</code><br />
-  <b>Location:</b> <code>Tashkent, Uzbekistan 🇺🇿</code><br />
-  <b>Education:</b> <code>PDP Academy, Udemy</code><br />
-  <b>Languages:</b> <code>Uzbek (Native), English (B2), Russian (B2), Korean (B1)</code>
+- [My Technical Blog](https://medium.com/@dilshoddev)  
+- So‘nggi maqola: “[FastAPI bilan Tez API Qurish](#)”  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshod1405&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
-<!-- Tech Stack with Hover Glow Animation -->
+## 📫 Contact Me
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" style="filter: drop-shadow(0 0 6px #3572A5); transition: transform 0.3s ease;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" style="filter: drop-shadow(0 0 6px #5382a1); transition: transform 0.3s ease;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring" style="filter: drop-shadow(0 0 6px #6DB33F); transition: transform 0.3s ease;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" style="filter: drop-shadow(0 0 6px #009688); transition: transform 0.3s ease;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" style="filter: drop-shadow(0 0 6px #092E20); transition: transform 0.3s ease;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" style="filter: drop-shadow(0 0 6px #000000); transition: transform 0.3s ease;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" style="filter: drop-shadow(0 0 6px #61DAFB); transition: transform 0.3s ease;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" style="filter: drop-shadow(0 0 6px #336791); transition: transform 0.3s ease;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" style="filter: drop-shadow(0 0 6px #2496ED); transition: transform 0.3s ease;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" alt="RabbitMQ" style="filter: drop-shadow(0 0 6px #FF6600); transition: transform 0.3s ease;" />
+  <a href="mailto:dilshod@example.com"><img src="https://img.shields.io/badge/Email-Dilshod%40example.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://t.me/architect_developer"><img src="https://img.shields.io/badge/Telegram-@architect_developer-blue?style=flat-square&logo=telegram" alt="Telegram" /></a>
+  <a href="https://linkedin.com/in/dilshod-normurodov-0b886824b"><img src="https://img.shields.io/badge/LinkedIn-Dilshod%20Normurodov-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-<!-- GitHub Stats with Customized Theme -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <sub>README har doim yangilanib turadi va texnologiyalar tajribasiga qarab kengaytiriladi. 🚀</sub>
 </p>
-
----
-
-<!-- Contribution Graph with Snake Animation -->
-<p align="center">
-  <img src="https://github.com/dilshod1405/dilshod1405/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilshod1405&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-<!-- CSS Animations for Glow & Pulse -->
-<style>
-@keyframes pulseGlow {
-  0% {
-    text-shadow: 0 0 4px #39ff14, 0 0 10px #39ff14;
-  }
-  50% {
-    text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14;
-  }
-  100% {
-    text-shadow: 0 0 4px #39ff14, 0 0 10px #39ff14;
-  }
-}
-img:hover {
-  transform: scale(1.1);
-  filter: drop-shadow(0 0 15px #39ff14);
-}
-</style>
