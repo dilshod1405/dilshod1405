@@ -63,9 +63,10 @@ PostgreSQL  ■■■■■■■□□□ 80%
 ```mermaid
 timeline
     title My Work Experience
-    2021 : Developer @ Agency of External Labor Migration of Uzbekistan
+    2021-2023 : Developer @ Agency of External Labor Migration of Uzbekistan
     2024 : Freelancer in Upwork
-    2025 : Edvent.uz @ I developed edvent project from scratch
+    2024-2025 : Edvent.uz @ I developed edvent project from scratch
+    2025 : WATCHDOG @ I started my job as a FullStack Developer
 ```
 
 ---
