@@ -35,14 +35,6 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
   <img src="https://stats.dooboo.io/api/github-stats?login=dilshod1405&theme=react" />
 </p>
 
-<p align="center">
-  <img height="180em"
-     src="https://stats.dooboo.io/api/github-trophies?login=dilshod1405&theme=react&token=${{ secrets.DOOBOO_TOKEN }}" />
-</p>
-
-
-
-
 ---
 
 ## 🛠️ Technology Stack
