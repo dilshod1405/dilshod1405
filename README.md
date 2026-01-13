@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Dilshod+Normurodov;Software+Engineer;Full+Stack+Developer;Microservices+Architect;Welcome+to+my+Profile!)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=dilshod1405&color=00D9FF&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Dilshod+Normurodov;Software+Engineer;Full+Stack+Developer;Microservices+Architect;Welcome+to+my+Profile!)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=dilshod1405&color=00D9FF&label=PROFILE+VIEWS&style=for-the-badge)
+  
 </div>
 
 ---
@@ -31,14 +33,13 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&theme=tokyonight&hide_border=false&layout=compact&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
   
-  <img src="https://streak-stats.demolab.com/?user=dilshod1405&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117" alt="GitHub Streak" height="180"/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&theme=tokyonight&hide_border=false&layout=compact&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
   
-  <img src="https://github-profile-trophy.vercel.app/?username=dilshod1405&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7&row=2" alt="GitHub Trophies" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=dilshod1405&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117)
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshod1405&theme=tokyo-night&hide_border=false&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="GitHub Activity Graph" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dilshod1405&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7&row=2)
   
 </div>
 
@@ -421,14 +422,6 @@ Security & Testing       ████████████████░░�
 - ✅ **Java/Spring Boot**: Enterprise-grade applications with Spring Boot framework
 
 ---
-
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilshod1405&theme=tokyo-night&hide_border=false&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&custom_title=GitHub%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
