@@ -29,9 +29,9 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics 
+[Ko'rish](https://github.com/<user>/<repo>#analytics)
 
-![Metrics](./github-metrics.svg)
 
 
 
