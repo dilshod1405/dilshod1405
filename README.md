@@ -74,6 +74,7 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 </div>
@@ -87,6 +88,7 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
@@ -434,7 +436,7 @@ Security & Testing       ████████████████░░�
 - Optimizing database queries and system performance
 - Learning cloud-native technologies and best practices
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 - [ ] Contribute more to open-source projects
 - [ ] Master advanced system design patterns
 - [ ] Deep dive into Kubernetes and cloud-native technologies
@@ -469,6 +471,6 @@ Security & Testing       ████████████████░░�
 
 **⭐ If you find my work interesting, feel free to give my repositories a star!**
 
-*Last Updated: January 2025*
+*Last Updated: January 2026*
 
 </div>
