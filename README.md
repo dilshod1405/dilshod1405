@@ -33,13 +33,21 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdilshod1405&style=for-the-badge&color=blue)
+  <!-- GitHub Stats -->
+  <img height="180em" 
+       src="https://stats.dooboo.io/api/github-stats?login=dilshod1405&theme=react" />
 
-![Followers](https://img.shields.io/github/followers/dilshod1405?style=for-the-badge&color=blue)
+  <!-- Top Languages -->
+  <img height="180em" 
+       src="https://stats.dooboo.io/api/github-top-langs?login=dilshod1405&theme=react&compact=true" />
 
-![Stars](https://img.shields.io/github/stars/dilshod1405?style=for-the-badge&color=yellow)
+  <!-- Streak -->
+  <img height="180em"
+       src="https://stats.dooboo.io/api/github-streak-stats?login=dilshod1405&theme=react" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=dilshod1405&style=for-the-badge&color=blue)
+  <!-- Trophies -->
+  <img height="180em"
+       src="https://stats.dooboo.io/api/github-trophies?login=dilshod1405&theme=react" />
 
 </div>
 
