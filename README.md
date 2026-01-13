@@ -32,9 +32,9 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dilshod1405&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dilshod1405&layout=compact&theme=radical&hide_border=true" />
   
   <img src="https://github-readme-streak-stats.demolab.com/?user=dilshod1405&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
   
