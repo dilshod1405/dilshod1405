@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Dilshod+Normurodov;Software+Engineer;Full+Stack+Developer;Microservices+Architect;Welcome+to+my+Profile!)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Dilshod+Normurodov;Software+Engineer;Microservices+Architect;Welcome+to+my+Profile!)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=dilshod1405&color=00D9FF&label=PROFILE+VIEWS&style=for-the-badge)
   
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** and **Full Stack Developer** specializing in building scalable, production-ready applications. With expertise spanning from backend microservices to modern frontend interfaces, I architect solutions that handle real-world complexity.
+I'm a **Software Engineer** specializing in building scalable, production-ready applications. With expertise spanning from backend microservices to modern frontend interfaces, I architect solutions that handle real-world complexity.
 
 **📍 Location:** Tashkent, Uzbekistan  
 **🎓 Education:** PDP Academy, Udemy  
