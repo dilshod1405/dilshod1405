@@ -17,27 +17,28 @@
 
 ## 🚀 About Me
 
-```go
-type Developer struct {
-    Name        string
-    Role        string
-    Location    string
-    Company     string
-    Skills      []string
-    Passion     string
-}
+I'm a dedicated **Backend Developer** and **Software Engineer** with extensive experience in designing and developing scalable, high-performance backend systems. With a strong foundation in multiple programming languages and frameworks, I specialize in building robust microservices architectures, real-time communication systems, and enterprise-level applications.
 
-me := Developer{
-    Name:     "Dilshod Normurodov",
-    Role:     "Backend Developer",
-    Location:  "Tashkent, Uzbekistan",
-    Company:   "WATCHDOG",
-    Skills:    []string{"Go", "Python", "Django", "Java", "Spring Boot", "Microservices"},
-    Passion:   "Building scalable backend systems and real-time applications",
-}
-```
+### Professional Experience
 
-I'm a passionate **Backend Developer** with expertise in building robust, scalable systems. I specialize in **Go** and **Python** development, creating real-time services, microservices architectures, and high-performance applications. Currently working at **WATCHDOG** and contributing to the **NeoSoft** online learning platform.
+**🏢 Current Role: Backend Developer at WATCHDOG**
+
+I'm currently working at **WATCHDOG**, where I focus on developing cutting-edge backend solutions and contributing to innovative projects. My work involves designing scalable architectures, implementing real-time systems, and ensuring high performance and reliability.
+
+**💼 Key Areas of Expertise:**
+
+- **Microservices Architecture**: Designing and implementing distributed systems with service-oriented architecture
+- **Real-Time Systems**: Building WebSocket-based communication services for instant messaging and notifications
+- **API Development**: Creating RESTful APIs and backend services using modern frameworks
+- **Database Design**: Working with both SQL and NoSQL databases for optimal data management
+- **System Integration**: Integrating various services and third-party APIs
+- **Performance Optimization**: Optimizing backend systems for scalability and efficiency
+
+### Technical Background
+
+With hands-on experience across multiple technology stacks, I've worked on projects ranging from educational platforms to enterprise solutions. I have a deep understanding of backend development principles, system design patterns, and best practices for building maintainable and scalable applications.
+
+My experience includes working with **Go** for high-performance microservices, **Python/Django** for rapid API development, and **Java/Spring Boot** for enterprise applications. I'm also experienced with containerization, database optimization, and implementing real-time features using WebSocket technologies.
 
 ---
 
@@ -92,76 +93,89 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 
 ---
 
-## 💼 Featured Projects
+## 💼 Professional Experience & Expertise
 
-### 🔥 Real-Time Services
+### 🔥 Real-Time Systems Development
 
-#### [neosoft-chat](https://github.com/dilshod1405/neosoft-chat)
-**Real-time chat service for NeoSoft online learning platform**
+**Experience with WebSocket & Real-Time Communication**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+I have extensive experience building real-time communication systems and notification services. This includes designing WebSocket-based architectures, implementing message broadcasting, presence tracking, and ensuring low-latency message delivery. My work in this area has given me deep insights into handling concurrent connections, managing connection pools, and optimizing real-time data flow.
 
-> Real-time communication between mentors and students with WebSocket, message persistence, and presence tracking.
-
----
-
-#### [neosoft-notification](https://github.com/dilshod1405/neosoft-notification)
-**Real-time events notification service in Go**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-4ECDC4?style=flat-square&logo=kubernetes&logoColor=white)
-
-> High-performance notification service for the NeoSoft platform with event-driven architecture.
+**Key Skills Gained:**
+- WebSocket protocol implementation and optimization
+- Real-time message queuing and broadcasting
+- Connection management and scalability
+- Presence tracking and user status management
 
 ---
 
-### 🌐 Backend APIs
+### 🌐 Backend API Development
 
-#### [neosoft-api](https://github.com/dilshod1405/neosoft-api)
-**Backend side of NeoSoft online learning platform**
+**Experience with RESTful APIs & Microservices**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+I've developed comprehensive backend systems for various platforms, focusing on creating scalable, maintainable APIs. My experience includes designing API architectures, implementing authentication and authorization, database optimization, and integrating with third-party services.
 
-> Comprehensive Django backend for an online learning platform with RESTful APIs and authentication.
-
----
-
-### 🤖 Automation & Bots
-
-#### [todo-tasker](https://github.com/dilshod1405/todo-tasker)
-**Telegram bot for CRUD tasks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-
-> Interactive Telegram bot for task management with CRUD operations.
+**Key Skills Gained:**
+- RESTful API design and development
+- Authentication and security implementation
+- Database design and optimization
+- Service integration and API versioning
 
 ---
 
-### 🛒 E-Commerce
+### 🏗️ Microservices Architecture
 
-#### [e-com-monolithic](https://github.com/dilshod1405/e-com-monolithic)
-**Spring Boot e-commerce monolithic application**
+**Experience with Distributed Systems**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+I have hands-on experience designing and implementing microservices architectures. This includes service decomposition, inter-service communication, event-driven architectures, and ensuring system reliability and scalability.
 
-> Full-featured e-commerce application built with Spring Boot.
+**Key Skills Gained:**
+- Microservices design patterns
+- Service communication strategies
+- Event-driven architecture
+- Distributed system challenges and solutions
 
 ---
 
-### 🚂 Industry Solutions
+### 🤖 Automation & Integration
 
-#### [helmet-detector](https://github.com/dilshod1405/helmet-detector)
-**UZRAILWAYS company project**
+**Experience with Automation Tools & Bots**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
+I've worked on developing automation solutions and bot integrations, which has enhanced my understanding of API integrations, webhook handling, and automated workflow design.
 
-> Computer vision solution for safety compliance in railway operations.
+**Key Skills Gained:**
+- Bot development and integration
+- Automation workflow design
+- API integration patterns
+- Webhook implementation
+
+---
+
+### 🛒 Enterprise Application Development
+
+**Experience with E-Commerce & Business Applications**
+
+My experience includes developing full-stack enterprise applications, which has provided me with comprehensive knowledge of business logic implementation, payment processing, order management, and complex system integrations.
+
+**Key Skills Gained:**
+- Enterprise application architecture
+- Business logic implementation
+- Payment and transaction handling
+- Complex system integration
+
+---
+
+### 🚂 Industry-Specific Solutions
+
+**Experience with AI/ML Integration**
+
+I've worked on industry-specific solutions that integrate AI and machine learning capabilities, giving me experience in combining backend systems with AI services and computer vision technologies.
+
+**Key Skills Gained:**
+- AI/ML service integration
+- Computer vision application development
+- Industry-specific solution design
+- Complex system requirements handling
 
 ---
 
@@ -175,13 +189,13 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Current Focus & Continuous Learning
 
-- 🔨 Building scalable microservices with Go
-- 🚀 Developing real-time communication systems
-- 📚 Contributing to NeoSoft online learning platform
-- 🎓 Learning advanced system design patterns
-- 🤝 Open to collaboration on interesting projects
+- 🔨 **Architecture Design**: Continuously improving my skills in designing scalable and maintainable system architectures
+- 🚀 **Performance Optimization**: Learning and applying advanced techniques for optimizing backend performance
+- 📚 **Best Practices**: Staying updated with industry best practices and design patterns
+- 🎓 **System Design**: Deepening my understanding of distributed systems and microservices patterns
+- 🤝 **Collaboration**: Open to collaborating on challenging projects and sharing knowledge with the community
 
 ---
 
@@ -210,14 +224,19 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 
 ---
 
-## 📝 Recent Activity
+## 🎓 Professional Development
 
-<!--START_SECTION:activity-->
-1. 🎉 Working on real-time chat service improvements
-2. 🚀 Deploying microservices architecture
-3. 📚 Contributing to NeoSoft platform
-4. 🔧 Building notification service enhancements
-<!--END_SECTION:activity-->
+### Continuous Learning
+- Keeping up with the latest trends in backend development
+- Exploring new technologies and frameworks
+- Contributing to open-source projects
+- Sharing knowledge through code and documentation
+
+### Areas of Interest
+- **System Architecture**: Designing scalable and resilient systems
+- **Performance Engineering**: Optimizing applications for speed and efficiency
+- **Cloud Technologies**: Exploring cloud-native development
+- **DevOps Practices**: Improving deployment and monitoring processes
 
 ---
 
@@ -235,13 +254,13 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 
-## 🎨 Fun Facts
+## 💡 Professional Philosophy
 
-- ⚡ I love building high-performance backend systems
-- 🎯 Passionate about real-time applications and WebSocket technologies
-- 🚀 Always learning new technologies and best practices
-- 💼 Working on exciting projects at WATCHDOG
-- 🌟 Contributing to open-source and educational platforms
+- ⚡ **Performance First**: I believe in writing efficient, optimized code that scales
+- 🎯 **Clean Architecture**: Focus on maintainable, well-structured codebases
+- 🚀 **Continuous Improvement**: Always learning and adapting to new technologies and methodologies
+- 💼 **Problem Solving**: Enjoy tackling complex technical challenges
+- 🌟 **Knowledge Sharing**: Committed to contributing to the developer community and sharing expertise
 
 ---
 
