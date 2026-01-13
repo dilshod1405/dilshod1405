@@ -17,10 +17,12 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 ### 💡 Core Expertise
 
 - 🏗️ **System Architecture**: Microservices, Event-Driven Systems, Clean Architecture
-- ⚡ **Backend Development**: Django REST Framework, Go, Java, High-Performance APIs
+- ⚡ **Backend Development**: Django REST Framework, Go, Java/Spring Boot, High-Performance APIs
 - 🎨 **Frontend Development**: React, TypeScript, Modern UI Frameworks
 - 🔄 **Real-Time Systems**: WebSocket, Redis Streams, Event-Driven Communication
-- 🐳 **DevOps**: Docker, Container Orchestration, CI/CD
+- 💳 **Payment Integration**: Multiple payment gateway integrations (Payme, Click, Uzum, Multicard)
+- 🔒 **Security**: JWT, OAuth, API Security, Authentication & Authorization
+- ☁️ **Cloud & DevOps**: Docker, Kubernetes, Container Orchestration, CI/CD
 - 🗄️ **Data Engineering**: PostgreSQL, MongoDB, Redis, Database Optimization
 
 ---
@@ -54,6 +56,7 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 ![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 </div>
@@ -90,15 +93,43 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 </details>
 
 <details>
-<summary><b>🚀 DevOps & Tools</b></summary>
+<summary><b>🚀 DevOps, Cloud & Tools</b></summary>
 
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🔒 Security & Authentication</b></summary>
+
+<div align="center">
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>💳 Payment Gateway Integrations</b></summary>
+
+<div align="center">
+
+**Payme** • **Click** • **Uzum Pay** • **Multicard** • **Paynet**
+
+*Experienced in integrating multiple payment gateways for production applications*
 
 </div>
 
@@ -154,6 +185,13 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 - **Caching Layer**: Redis caching for performance optimization
 - **API Documentation**: Swagger/OpenAPI documentation with drf-yasg
 
+#### 🎯 Java/Spring Boot Applications
+- **Spring Boot Microservices**: E-commerce application with layered architecture
+- **RESTful APIs**: Clean REST API design with Spring Data JPA
+- **Database Integration**: PostgreSQL and H2 database support
+- **Docker Deployment**: Containerized Spring Boot applications
+- **CI/CD Integration**: GitHub Actions for automated testing and deployment
+
 ---
 
 ## 💼 Featured Projects
@@ -179,11 +217,12 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 - Real-time chat with WebSocket (room-based, presence tracking, read receipts)
 - Event-driven notifications via Redis Streams
 - JWT authentication across services
-- Payment gateway integrations
+- **Multiple Payment Gateway Integrations**: Payme, Click, Uzum Pay
 - Video streaming integration (VdoCipher)
-- Comprehensive API documentation
+- Comprehensive API documentation (Swagger/OpenAPI)
+- Postman collections for API testing
 
-**Technologies:** Django, Go, React, TypeScript, PostgreSQL, MongoDB, Redis, WebSocket, Docker
+**Technologies:** Django, Go, React, TypeScript, PostgreSQL, MongoDB, Redis, WebSocket, Docker, Postman
 
 </details>
 
@@ -242,15 +281,78 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 **Features:**
 - User management (Students, Employees)
 - Education module (Groups, Lessons, Bookings)
-- Payment integration (Multicard)
-- JWT authentication
+- **Payment Integration**: Multicard payment gateway
+- JWT authentication and authorization
 - Redis caching
 - Celery background tasks
 - API documentation (Swagger/ReDoc)
+- **Postman Collection**: Complete API testing collection
 
-**Technologies:** Django, Django REST Framework, PostgreSQL, Redis, Celery, Docker
+**Technologies:** Django, Django REST Framework, PostgreSQL, Redis, Celery, Docker, Postman
 
 </details>
+
+<details>
+<summary><b>🛒 E-Commerce Application - Spring Boot</b></summary>
+
+### Spring Boot E-Commerce Platform
+
+**Modern RESTful e-commerce application built with Spring Boot**
+
+**Architecture:**
+- **Layered Architecture**: Controller → Service → Repository pattern
+- **Spring Data JPA**: Database abstraction layer
+- **RESTful API Design**: Clean API endpoints with proper HTTP methods
+- **Docker Support**: Containerized deployment
+
+**Key Features:**
+- User management with role-based access (CUSTOMER, ADMIN)
+- Product catalog with search functionality
+- Shopping cart management
+- Order processing and status tracking
+- Address management
+- Inventory tracking
+
+**Technologies:** Java 21, Spring Boot 4.0, Spring Data JPA, PostgreSQL, H2, Maven, Docker, GitHub Actions
+
+</details>
+
+---
+
+## 💳 Payment Gateway Integration Experience
+
+I have extensive experience integrating multiple payment gateways for production applications in Uzbekistan's market:
+
+### Integrated Payment Gateways
+
+| Gateway | Experience | Use Cases |
+|:---:|:---:|:---|
+| **Payme** | ✅ Production | Education platforms, E-commerce |
+| **Click** | ✅ Production | Education platforms, Service payments |
+| **Uzum Pay** | ✅ Production | Education platforms, Digital services |
+| **Multicard** | ✅ Production | Education platforms, Property management |
+| **Paynet** | ✅ Experience | Parking systems, Utilities |
+
+### Implementation Features
+
+- **Unified Payment Interface**: Single API endpoint supporting multiple gateways
+- **Transaction Management**: Order creation, payment processing, callback handling
+- **Status Tracking**: Payment status monitoring and updates
+- **Error Handling**: Comprehensive error handling and retry mechanisms
+- **Security**: Secure payment processing with proper authentication
+- **Testing**: Postman collections for payment gateway testing
+
+### Technical Implementation
+
+```python
+# Example: Multi-gateway payment integration
+- Django/Python payment services
+- Transaction model design
+- Callback URL handling
+- Payment status verification
+- Refund processing capabilities
+- Webhook integration
+```
 
 ---
 
@@ -260,9 +362,10 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 Backend Development      ████████████████████ 95%
   • Django/Python        ████████████████████ 95%
   • Go (Golang)          ████████████████░░░░ 80%
-  • Java/Spring Boot     ████████████░░░░░░░░ 60%
+  • Java/Spring Boot     ██████████████░░░░░░ 70%
   • REST API Design      ████████████████████ 95%
   • Microservices        ██████████████████░░ 90%
+  • Payment Integration  ██████████████████░░ 90%
 
 Frontend Development     ████████████████████ 90%
   • React                ████████████████████ 95%
@@ -278,9 +381,16 @@ Database & Storage       ████████████████░░�
 
 DevOps & Infrastructure  ████████████████░░░░ 80%
   • Docker               ████████████████░░░░ 85%
+  • Kubernetes           ████████████░░░░░░░░ 65%
   • CI/CD                ████████████░░░░░░░░ 65%
   • Linux                ██████████████░░░░░░ 75%
   • System Design        ██████████████████░░ 90%
+
+Security & Testing       ████████████████░░░░ 85%
+  • JWT/OAuth            ████████████████░░░░ 85%
+  • API Security         ████████████████░░░░ 85%
+  • Postman              ██████████████████░░ 90%
+  • Testing              ████████████████░░░░ 80%
 ```
 
 ---
@@ -302,11 +412,13 @@ DevOps & Infrastructure  ████████████████░░�
 - ✅ **Performance Optimization**: Caching strategies, query optimization
 
 ### Production-Ready Solutions
-- ✅ **Containerization**: Docker and Docker Compose setups
-- ✅ **Authentication & Security**: JWT, OAuth, secure API design
-- ✅ **Payment Integration**: Multiple payment gateway integrations
-- ✅ **API Design**: RESTful APIs with comprehensive documentation
-- ✅ **Scalability**: Designed for horizontal scaling
+- ✅ **Containerization**: Docker and Docker Compose setups, Kubernetes experience
+- ✅ **Authentication & Security**: JWT, OAuth, secure API design, security best practices
+- ✅ **Payment Integration**: Multiple payment gateway integrations (Payme, Click, Uzum, Multicard)
+- ✅ **API Design**: RESTful APIs with comprehensive documentation (Swagger/OpenAPI)
+- ✅ **API Testing**: Postman collections with automated testing workflows
+- ✅ **Scalability**: Designed for horizontal scaling, cloud-ready architectures
+- ✅ **Java/Spring Boot**: Enterprise-grade applications with Spring Boot framework
 
 ---
 
@@ -332,10 +444,12 @@ DevOps & Infrastructure  ████████████████░░�
 ### 🎯 2025 Goals
 - [ ] Contribute more to open-source projects
 - [ ] Master advanced system design patterns
-- [ ] Explore cloud platforms (AWS, Kubernetes)
+- [ ] Deep dive into Kubernetes and cloud-native technologies
+- [ ] Expand cloud platform expertise (AWS, GCP, Azure)
 - [ ] Build and launch personal SaaS projects
 - [ ] Share knowledge through technical blog posts
 - [ ] Achieve deeper expertise in distributed systems
+- [ ] Enhance security expertise and certifications
 
 ---
 
