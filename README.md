@@ -33,13 +33,12 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&theme=tokyonight&hide_border=false&layout=compact&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+  <img src="https://github-readme-streak-stats.demolab.com/?user=dilshod1405&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=dilshod1405&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117)
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dilshod1405&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7&row=2)
+  <img src="https://github-profile-trophy.vercel.app/?username=dilshod1405&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
   
 </div>
 
