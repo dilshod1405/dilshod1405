@@ -29,9 +29,27 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 ---
 
-## 📊 GitHub Analytics 
-[Ko'rish](https://github.com/<user>/<repo>#analytics)
+## 📊 GitHub Analytics
 
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img height="180em" 
+       src="https://stats.dooboo.io/api/github-stats?login=dilshod1405&theme=react" />
+
+  <!-- Top Languages -->
+  <img height="180em" 
+       src="https://stats.dooboo.io/api/github-top-langs?login=dilshod1405&theme=react&compact=true" />
+
+  <!-- Streak -->
+  <img height="180em"
+       src="https://stats.dooboo.io/api/github-streak-stats?login=dilshod1405&theme=react" />
+
+  <!-- Trophies -->
+  <img height="180em"
+       src="https://stats.dooboo.io/api/github-trophies?login=dilshod1405&theme=react" />
+
+</div>
 
 
 
