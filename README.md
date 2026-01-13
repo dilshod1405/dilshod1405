@@ -34,16 +34,16 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img height="180em" 
+  <img height="180em"
        src="https://stats.dooboo.io/api/github-stats?login=dilshod1405&theme=react" />
 
   <!-- Top Languages -->
-  <img height="180em" 
-       src="https://stats.dooboo.io/api/github-top-langs?login=dilshod1405&theme=react&compact=true" />
+  <img height="180em"
+       src="https://stats.dooboo.io/api/top-langs?username=dilshod1405&theme=react&compact=true" />
 
   <!-- Streak -->
   <img height="180em"
-       src="https://stats.dooboo.io/api/github-streak-stats?login=dilshod1405&theme=react" />
+       src="https://stats.dooboo.io/api/streak-stats?username=dilshod1405&theme=react" />
 
   <!-- Trophies -->
   <img height="180em"
