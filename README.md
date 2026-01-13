@@ -33,15 +33,19 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dilshod1405&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=radical" />
+<br/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dilshod1405&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&layout=compact&theme=radical" />
+<br/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=dilshod1405&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=dilshod1405&theme=radical" />
+<br/>
 
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=dilshod1405&theme=radical&margin-w=8&margin-h=8&no-frame=true&column=7" />
+<img src="https://github-profile-trophy-jaeheonji.vercel.app/?username=dilshod1405&theme=radical" />
 
 </div>
+
 
 
 
