@@ -1,287 +1,227 @@
 <div align="center">
 
-# 👋 Hello, I'm Dilshod Normurodov
-
-### 🖥️ Backend Developer | Software Engineer
-
-[![GitHub](https://img.shields.io/badge/GitHub-dilshod1405-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilshod1405)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dilshod%20Normurodov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilshod-normurodov-0b886824b)
-[![Telegram](https://img.shields.io/badge/Telegram-@architect__developer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/architect_developer)
-[![Instagram](https://img.shields.io/badge/Instagram-neosoft__uz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/neosoft_uz)
-
-📍 **Tashkent, Uzbekistan** | 🏢 **WATCHDOG**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D9FF&center=true&width=600&lines=Hello%2C+I'm+Dilshod+Normurodov!;Full+Stack+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm a dedicated **Backend Developer** and **Software Engineer** with extensive experience in designing and developing scalable, high-performance backend systems. With a strong foundation in multiple programming languages and frameworks, I specialize in building robust microservices architectures, real-time communication systems, and enterprise-level applications.
+![Profile Views](https://komarev.com/ghpvc/?username=dilshod1405&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
-### Professional Experience
-
-**🏢 Current Role: Backend Developer at WATCHDOG**
-
-I'm currently working at **WATCHDOG**, where I focus on developing cutting-edge backend solutions and contributing to innovative projects. My work involves designing scalable architectures, implementing real-time systems, and ensuring high performance and reliability.
-
-**💼 Key Areas of Expertise:**
-
-- **Microservices Architecture**: Designing and implementing distributed systems with service-oriented architecture
-- **Real-Time Systems**: Building WebSocket-based communication services for instant messaging and notifications
-- **API Development**: Creating RESTful APIs and backend services using modern frameworks
-- **Database Design**: Working with both SQL and NoSQL databases for optimal data management
-- **System Integration**: Integrating various services and third-party APIs
-- **Performance Optimization**: Optimizing backend systems for scalability and efficiency
-
-### Technical Background
-
-With hands-on experience across multiple technology stacks, I've worked on projects ranging from educational platforms to enterprise solutions. I have a deep understanding of backend development principles, system design patterns, and best practices for building maintainable and scalable applications.
-
-My experience includes working with **Go** for high-performance microservices, **Python/Django** for rapid API development, and **Java/Spring Boot** for enterprise applications. I'm also experienced with containerization, database optimization, and implementing real-time features using WebSocket technologies.
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 👨‍💻 About Me
 
-### Languages & Frameworks
+```python
+class DilshodNormurodov:
+    def __init__(self):
+        self.name = "Dilshod Normurodov"
+        self.role = "Full Stack Developer"
+        self.location = "Tashkent, Uzbekistan"
+        self.education = ["PDP Academy", "Udemy"]
+        self.languages = {
+            "Uzbek": "Native",
+            "English": "B2",
+            "Russian": "B2",
+            "Korean": "B1"
+        }
+        self.passion = "Building scalable web applications and microservices"
+        self.current_focus = "Full Stack Development | Backend APIs | Real-time Systems"
+    
+    def get_skills(self):
+        return {
+            "Backend": ["Python", "Django", "Django REST Framework", "Go", "Java"],
+            "Frontend": ["React", "TypeScript", "JavaScript", "Material-UI", "Ant Design"],
+            "Database": ["PostgreSQL", "MongoDB", "Redis"],
+            "Tools": ["Docker", "Celery", "WebSocket", "Git", "Linux"],
+            "Architecture": ["REST APIs", "Microservices", "Real-time Systems", "Event-Driven"]
+        }
+```
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+### Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Databases & Tools
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases & Cache
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Technologies
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-4ECDC4?style=for-the-badge&logo=kubernetes&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=dilshod1405&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Pull Shark](https://github-profile-trophy.vercel.app/?username=dilshod1405&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilshod1405&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dilshod1405&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilshod1405&theme=redical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
 
 </div>
 
 ---
 
-## 💼 Professional Experience & Expertise
+## 💼 Professional Experience
 
-### 🔥 Real-Time Systems Development
+### 🏢 Full Stack Developer
 
-**Experience with WebSocket & Real-Time Communication**
+Experienced in building scalable web applications and microservices with expertise in:
 
-I have extensive experience building real-time communication systems and notification services. This includes designing WebSocket-based architectures, implementing message broadcasting, presence tracking, and ensuring low-latency message delivery. My work in this area has given me deep insights into handling concurrent connections, managing connection pools, and optimizing real-time data flow.
+- **Backend Development**: Building robust REST APIs with Django REST Framework, developing high-performance microservices in Go, and implementing real-time communication systems
+- **Frontend Development**: Creating modern, responsive user interfaces with React and TypeScript, implementing complex state management, and integrating with various UI libraries
+- **System Architecture**: Designing microservices architectures, implementing event-driven systems, and building real-time chat services with WebSocket
+- **DevOps**: Containerizing applications with Docker, setting up CI/CD pipelines, and managing containerized deployments
 
-**Key Skills Gained:**
-- WebSocket protocol implementation and optimization
-- Real-time message queuing and broadcasting
-- Connection management and scalability
-- Presence tracking and user status management
+### 🚀 Key Projects
 
----
+#### 📚 Education Platforms
+- **BIMUZ API**: Django-based education platform API with payment integration, user management, and comprehensive REST endpoints
+- **Edu-NeoSoft**: Multi-service educational platform featuring:
+  - Django REST API for core functionality
+  - Go-based real-time chat microservice with WebSocket
+  - Go notification service
+  - Multiple React/TypeScript frontend applications
 
-### 🌐 Backend API Development
+#### 🏠 Property Management (MHP)
+- **MHP Platform**: Comprehensive property management system including:
+  - Django REST API backend
+  - Multiple React frontend applications (CRM, Dashboard, UI)
+  - Go microservice for property finding
+  - Integration with payment systems and real-time features
 
-**Experience with RESTful APIs & Microservices**
-
-I've developed comprehensive backend systems for various platforms, focusing on creating scalable, maintainable APIs. My experience includes designing API architectures, implementing authentication and authorization, database optimization, and integrating with third-party services.
-
-**Key Skills Gained:**
-- RESTful API design and development
-- Authentication and security implementation
-- Database design and optimization
-- Service integration and API versioning
-
----
-
-### 🏗️ Microservices Architecture
-
-**Experience with Distributed Systems**
-
-I have hands-on experience designing and implementing microservices architectures. This includes service decomposition, inter-service communication, event-driven architectures, and ensuring system reliability and scalability.
-
-**Key Skills Gained:**
-- Microservices design patterns
-- Service communication strategies
-- Event-driven architecture
-- Distributed system challenges and solutions
+#### 🚗 Parking Management
+- **Parking24**: Modern parking management dashboard built with React, TypeScript, Ant Design, and real-time tracking capabilities
 
 ---
 
-### 🤖 Automation & Integration
+## 🔥 Technologies & Tools in Action
 
-**Experience with Automation Tools & Bots**
+### Backend Stack
+- **Python/Django**: RESTful APIs, authentication, payment processing, background tasks
+- **Go**: High-performance microservices, real-time chat services, WebSocket servers
+- **Java**: Microservices architecture, e-commerce applications
+- **Celery**: Asynchronous task processing, scheduled jobs
+- **Redis**: Caching, session management, message queuing
 
-I've worked on developing automation solutions and bot integrations, which has enhanced my understanding of API integrations, webhook handling, and automated workflow design.
+### Frontend Stack
+- **React & TypeScript**: Modern, type-safe frontend development
+- **State Management**: React Query, Redux Toolkit
+- **UI Libraries**: Material-UI, Ant Design, styled-components
+- **Maps & Visualization**: Leaflet, Chart.js, ApexCharts
+- **Forms & Validation**: React Hook Form, Yup
 
-**Key Skills Gained:**
-- Bot development and integration
-- Automation workflow design
-- API integration patterns
-- Webhook implementation
-
----
-
-### 🛒 Enterprise Application Development
-
-**Experience with E-Commerce & Business Applications**
-
-My experience includes developing full-stack enterprise applications, which has provided me with comprehensive knowledge of business logic implementation, payment processing, order management, and complex system integrations.
-
-**Key Skills Gained:**
-- Enterprise application architecture
-- Business logic implementation
-- Payment and transaction handling
-- Complex system integration
+### Infrastructure
+- **Docker & Docker Compose**: Containerization and orchestration
+- **PostgreSQL & MongoDB**: Relational and NoSQL databases
+- **WebSocket**: Real-time bidirectional communication
+- **JWT Authentication**: Secure token-based authentication
 
 ---
 
-### 🚂 Industry-Specific Solutions
-
-**Experience with AI/ML Integration**
-
-I've worked on industry-specific solutions that integrate AI and machine learning capabilities, giving me experience in combining backend systems with AI services and computer vision technologies.
-
-**Key Skills Gained:**
-- AI/ML service integration
-- Computer vision application development
-- Industry-specific solution design
-- Complex system requirements handling
-
----
-
-## 📈 Contribution Graph
+## 📈 Coding Activity
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilshod1405&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilshod1405&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Coding%20Time%20This%20Week)
 
 </div>
 
 ---
 
-## 🎯 Current Focus & Continuous Learning
-
-- 🔨 **Architecture Design**: Continuously improving my skills in designing scalable and maintainable system architectures
-- 🚀 **Performance Optimization**: Learning and applying advanced techniques for optimizing backend performance
-- 📚 **Best Practices**: Staying updated with industry best practices and design patterns
-- 🎓 **System Design**: Deepening my understanding of distributed systems and microservices patterns
-- 🤝 **Collaboration**: Open to collaborating on challenging projects and sharing knowledge with the community
-
----
-
-## 💡 Skills Breakdown
+## 🌟 Featured Projects
 
 <div align="center">
 
-### Backend Development
-![Go](https://img.shields.io/badge/Go-Expert-00ADD8?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge)
+### 🎓 Education Platforms
+Building comprehensive educational ecosystems with real-time communication, payment integration, and modern user interfaces.
 
-### Frameworks
-![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Advanced-6DB33F?style=for-the-badge)
+### 🏡 Property Management
+Developing full-stack property management solutions with CRM capabilities, analytics dashboards, and mobile-responsive designs.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-Expert-47A248?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=for-the-badge)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge)
+### 🚗 Parking Solutions
+Creating modern parking management systems with real-time tracking, analytics, and user-friendly interfaces.
 
 </div>
 
 ---
 
-## 🎓 Professional Development
-
-### Continuous Learning
-- Keeping up with the latest trends in backend development
-- Exploring new technologies and frameworks
-- Contributing to open-source projects
-- Sharing knowledge through code and documentation
-
-### Areas of Interest
-- **System Architecture**: Designing scalable and resilient systems
-- **Performance Engineering**: Optimizing applications for speed and efficiency
-- **Cloud Technologies**: Exploring cloud-native development
-- **DevOps Practices**: Improving deployment and monitoring processes
-
----
-
-## 🤝 Let's Connect!
+## 📫 Connect With Me
 
 <div align="center">
 
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilshod-normurodov-0b886824b)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/architect_developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-normurodov-0b886824b)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/architect_developer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shod_developer)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilshod1405)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshod1405@example.com)
 
 </div>
 
 ---
 
-## 💡 Professional Philosophy
+## 💡 Current Focus
 
-- ⚡ **Performance First**: I believe in writing efficient, optimized code that scales
-- 🎯 **Clean Architecture**: Focus on maintainable, well-structured codebases
-- 🚀 **Continuous Improvement**: Always learning and adapting to new technologies and methodologies
-- 💼 **Problem Solving**: Enjoy tackling complex technical challenges
-- 🌟 **Knowledge Sharing**: Committed to contributing to the developer community and sharing expertise
+- 🔨 Building scalable microservices architecture
+- 🚀 Developing real-time communication systems
+- 📱 Creating modern, responsive web applications
+- 🎯 Improving system performance and optimization
+- 📚 Learning new technologies and best practices
+
+---
+
+## 🎯 Goals for 2025
+
+- [ ] Contribute more to open-source projects
+- [ ] Master advanced system design patterns
+- [ ] Explore cloud-native technologies (Kubernetes, AWS, etc.)
+- [ ] Build and launch personal SaaS projects
+- [ ] Share knowledge through technical blog posts
 
 ---
 
 <div align="center">
 
-### ⚡ Quick Stats
+### ⚡ Fun Fact
 
-![Profile Views](https://komarev.com/ghpvc/?username=dilshod1405&color=00ADD8&style=for-the-badge&label=Profile+Views)
-
-**Thanks for visiting!** ⭐
-
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-</div>
+> "The best code is the code you don't have to write twice."
 
 ---
 
-<div align="center">
+![GitHub Snake Animation](https://github.com/dilshod1405/dilshod1405/blob/output/github-contribution-grid-snake.svg)
 
-**⭐ Star some of my repositories if you find them interesting!**
+**Thanks for visiting my profile! ⭐**
 
-Made with ❤️ by [Dilshod Normurodov](https://github.com/dilshod1405)
+*Last Updated: January 2025*
 
 </div>
