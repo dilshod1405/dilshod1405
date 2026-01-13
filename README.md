@@ -36,7 +36,8 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 </p>
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=dilshod1405&theme=react&hide_rank_badges=true&disable_animations=true" />
+  <img height="180em"
+     src="https://stats.dooboo.io/api/github-trophies?login=dilshod1405&theme=react&token=${{ secrets.DOOBOO_TOKEN }}" />
 </p>
 
 
