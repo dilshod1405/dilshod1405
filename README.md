@@ -31,17 +31,14 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=dilshod1405&theme=react" />
+</p>
 
-  <!-- GitHub Stats -->
-  <img height="180em" 
-       src="https://stats.dooboo.io/api/github-stats?login=dilshod1405&theme=react" />
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=dilshod1405&theme=react&hide_rank_badges=true&disable_animations=true" />
+</p>
 
-  <!-- Trophies -->
-  <img height="180em"
-       src="https://stats.dooboo.io/api/github-trophies?login=dilshod1405&theme=react" />
-
-</div>
 
 
 
