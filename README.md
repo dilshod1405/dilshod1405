@@ -33,23 +33,16 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img height="180em" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dilshod1405&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+![GitHub Stats](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdilshod1405&style=for-the-badge&color=blue)
 
-  <!-- Top Languages -->
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dilshod1405&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+![Followers](https://img.shields.io/github/followers/dilshod1405?style=for-the-badge&color=blue)
 
-  <!-- Streak -->
-  <img height="180em"
-       src="https://streak-stats.demolab.com/?user=dilshod1405&theme=radical&hide_border=true" />
+![Stars](https://img.shields.io/github/stars/dilshod1405?style=for-the-badge&color=yellow)
 
-  <!-- Trophy -->
-  <img 
-       src="https://github-profile-trophy.vercel.app/?username=dilshod1405&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" />
+![Profile Views](https://komarev.com/ghpvc/?username=dilshod1405&style=for-the-badge&color=blue)
 
 </div>
+
 
 
 ---
