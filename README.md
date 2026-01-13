@@ -37,14 +37,6 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
   <img height="180em" 
        src="https://stats.dooboo.io/api/github-stats?login=dilshod1405&theme=react" />
 
-  <!-- Top Languages -->
-  <img height="180em" 
-       src="https://stats.dooboo.io/api/github-top-langs?login=dilshod1405&theme=react&compact=true" />
-
-  <!-- Streak -->
-  <img height="180em"
-       src="https://stats.dooboo.io/api/github-streak-stats?login=dilshod1405&theme=react" />
-
   <!-- Trophies -->
   <img height="180em"
        src="https://stats.dooboo.io/api/github-trophies?login=dilshod1405&theme=react" />
