@@ -31,25 +31,8 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+![Metrics](./github-metrics.svg)
 
-  <!-- GitHub Stats -->
-  <img height="180em"
-       src="https://your-app.vercel.app/api/github-stats?login=dilshod1405&theme=react" />
-
-  <!-- Top Languages -->
-  <img height="180em"
-       src="https://your-app.vercel.app/api/top-langs?username=dilshod1405&theme=react&compact=true" />
-
-  <!-- Streak -->
-  <img height="180em"
-       src="https://your-app.vercel.app/api/streak-stats?username=dilshod1405&theme=react" />
-
-  <!-- Trophies -->
-  <img height="180em"
-       src="https://your-app.vercel.app/api/github-trophies?login=dilshod1405&theme=react" />
-
-</div>
 
 
 ---
