@@ -33,21 +33,12 @@ I'm a **Software Engineer** and **Full Stack Developer** specializing in buildin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dilshod1405&show_icons=true&theme=radical" />
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshod1405&layout=compact&theme=radical" />
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=dilshod1405&theme=radical" />
-<br/>
-
-<img src="https://github-profile-trophy-jaeheonji.vercel.app/?username=dilshod1405&theme=radical" />
+![Public Repos](https://img.shields.io/github/repos/dilshod1405?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/dilshod1405?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/dilshod1405?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=dilshod1405&style=for-the-badge)
 
 </div>
-
-
-
 
 
 ---
