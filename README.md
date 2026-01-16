@@ -91,8 +91,6 @@ I'm a **Software Engineer** specializing in building scalable, production-ready 
 <details>
 <summary><b>🚀 DevOps, Cloud & Tools</b></summary>
 
-<summary><b>🚀 DevOps, Cloud & Tools</b></summary>
-
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
