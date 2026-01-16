@@ -123,7 +123,12 @@ I'm a **Software Engineer** specializing in building scalable, production-ready 
 
 <div align="center">
 
-**Payme** • **Click** • **Uzum Pay** • **Multicard** • **Paynet**
+![Payme](https://img.shields.io/badge/Payme-00B2FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...) 
+![Click](https://img.shields.io/badge/Click-0066FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...)
+![Uzum%20Pay](https://img.shields.io/badge/Uzum%20Pay-FFD600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...)
+![Multicard](https://img.shields.io/badge/Multicard-6E44FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...)
+![Paynet](https://img.shields.io/badge/Paynet-00C36A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...)
+
 
 *Experienced in integrating multiple payment gateways for production applications*
 
