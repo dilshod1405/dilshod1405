@@ -49,6 +49,9 @@ Most of my work is commercial and lives in **private GitLab repositories**. I do
 | [Master Homes](https://github.com/dilshod1405/my-real-projects/tree/main/master-homes) | Dubai real-estate platform, CRM, listing sync and landing pages | Django, Next.js, React |
 | [Edge24 / ioEdge](https://github.com/dilshod1405/my-real-projects/tree/main/edge24) | EdgeOps platform for managing fleets of edge devices | C++, Go, React |
 | [MediaStom](https://github.com/dilshod1405/my-real-projects/tree/main/mediastom/mediastom) | Dental clinic platform: online booking, tooth-chart treatment history, SMS reminders, smart waitlist | Next.js, Prisma, Telegram Mini App |
+| [HeroAcademy](https://github.com/dilshod1405/my-real-projects/tree/main/hero-academy/heroacademy) | Learning platform + CRM for a SAT/IELTS academy: courses with encrypted HLS video, tests, sales back office | .NET 8, Vue 3, PostgreSQL, MinIO |
+| [Nazar Education](https://github.com/dilshod1405/my-real-projects/tree/main/nedu) | Education-center operations: leads, groups & schedules, invoicing, cash desk, teacher payroll; website, admin, mobile app, bot | Django, Celery, Next.js, Flutter |
+| [Parking24](https://github.com/dilshod1405/my-real-projects/tree/main/parking24/parking24-ui) | Real-time parking management dashboard: permits, vehicles, payments, invoices, zones on a map | React, Redux Toolkit, Ant Design, WebSocket |
 | [Helmet Detector](https://github.com/dilshod1405/my-real-projects/tree/main/uzrailways/helmet-detector) | Worker-safety monitoring for Uzbekistan Railways with YOLOv8 + face recognition | FastAPI, YOLOv8, pgvector |
 
 <sub>🔒 Source code is private. I am happy to walk through any project in a video call.</sub>
@@ -65,6 +68,7 @@ Most of my work is commercial and lives in **private GitLab repositories**. I do
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 **Frontend & Mobile**
