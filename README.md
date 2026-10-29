@@ -1,478 +1,99 @@
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Dilshod+Normurodov;Software+Engineer;Microservices+Architect;Welcome+to+my+Profile!)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=dilshod1405&color=00D9FF&label=PROFILE+VIEWS&style=for-the-badge)
-  
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dilshod+Normurodov+%F0%9F%91%8B;Full-Stack+Developer;Backend+%E2%80%A2+Frontend+%E2%80%A2+DevOps)
+
+**Full-Stack Developer · Tashkent, Uzbekistan**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-normurodov-0b886824b)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/architect_developer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shod_developer)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** specializing in building scalable, production-ready applications. With expertise spanning from backend microservices to modern frontend interfaces, I architect solutions that handle real-world complexity.
+I build production systems end to end — from backend APIs and microservices to web dashboards, mobile apps,
+Telegram bots and the infrastructure that runs them. My work spans **banking, government services, real estate,
+education, IoT/edge computing and computer vision**, for clients in Uzbekistan and the UAE.
 
-**📍 Location:** Tashkent, Uzbekistan  
-**🎓 Education:** PDP Academy, Udemy  
-**🌍 Languages:** Uzbek (Native), English (B2), Russian (B2), Korean (B1)
+- 🏦 Marketplaces and loan platforms with **E-IMZO / OneID** sign-in, payments and digitally signed contracts
+- 🎓 Online education platforms with real-time chat and event-driven notifications
+- 🏙️ Real-estate websites, CRMs and listing-sync services for Dubai developers and agencies
+- 🛰️ Edge-device management platforms (cloud API, on-device agent, web console)
+- 🦺 Computer-vision safety monitoring (helmet detection + face recognition)
+- 🤖 AI agents and Telegram bots for business automation
 
-### 💡 Core Expertise
-
-- 🏗️ **System Architecture**: Microservices, Event-Driven Systems, Clean Architecture
-- ⚡ **Backend Development**: Django REST Framework, Go, Java/Spring Boot, High-Performance APIs
-- 🎨 **Frontend Development**: React, TypeScript, Modern UI Frameworks
-- 🔄 **Real-Time Systems**: WebSocket, Redis Streams, Event-Driven Communication
-- 💳 **Payment Integration**: Multiple payment gateway integrations (Payme, Click, Uzum, Multicard)
-- 🔒 **Security**: JWT, OAuth, API Security, Authentication & Authorization
-- ☁️ **Cloud & DevOps**: Docker, Kubernetes, Container Orchestration, CI/CD
-- 🗄️ **Data Engineering**: PostgreSQL, MongoDB, Redis, Database Optimization
+🌍 **Languages:** Uzbek (native) · English (B2) · Russian (B2) · Korean (B1)
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 My Real Projects
 
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=dilshod1405&theme=react" />
-</p>
-
----
-
-## 🛠️ Technology Stack
-
-<details>
-<summary><b>🔷 Backend Technologies</b></summary>
+Most of my work is commercial and lives in **private GitLab repositories**. I documented **54 of these projects**
+— architecture, features, tech stack and my role — in a dedicated showcase:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+### 👉 [**dilshod1405/my-real-projects**](https://github.com/dilshod1405/my-real-projects)
 
 </div>
 
-</details>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Agromakon](https://github.com/dilshod1405/my-real-projects/tree/main/agrobank/agromakon-core) | Agricultural marketplace for Agrobank — E-IMZO/OneID, orders, payments, signed contracts | Java, Spring Boot, Next.js, React |
+| [Agrokredit](https://github.com/dilshod1405/my-real-projects/tree/main/agrobank/agrokredit-api) | Configurable loan-origination platform (scoring, collateral, workflows) | Django, Celery, RabbitMQ |
+| [Mahallabay Collaboration](https://github.com/dilshod1405/my-real-projects/tree/main/mahallabay-collaboration) | Platform for the bank's regional network: dashboard, AI agents, geotracking, mobile app, bots | Django, React, FastAPI, Go, Flutter |
+| [Edu NeoSoft](https://github.com/dilshod1405/my-real-projects/tree/main/edu-neosoft) | Online education platform with Go chat & notification microservices | Django, Go, Redis Streams, Next.js |
+| [Master Homes](https://github.com/dilshod1405/my-real-projects/tree/main/master-homes) | Dubai real-estate platform, CRM, listing sync and landing pages | Django, Next.js, React |
+| [Edge24 / ioEdge](https://github.com/dilshod1405/my-real-projects/tree/main/edge24) | EdgeOps platform for managing fleets of edge devices | C++, Go, React |
+| [Helmet Detector](https://github.com/dilshod1405/my-real-projects/tree/main/uzrailways/helmet-detector) | Worker-safety monitoring for Uzbekistan Railways with YOLOv8 + face recognition | FastAPI, YOLOv8, pgvector |
 
-<details>
-<summary><b>🎨 Frontend Technologies</b></summary>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Caching</b></summary>
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🚀 DevOps, Cloud & Tools</b></summary>
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
-
-</details>
-
-<details>
-<summary><b>🔒 Security & Authentication</b></summary>
-
-<div align="center">
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
-
-</div>
-
-</details>
-
-<details>
-<summary><b>💳 Payment Gateway Integrations</b></summary>
-
-<div align="center">
-
-![Payme](https://img.shields.io/badge/Payme-00B2FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...) 
-![Click](https://img.shields.io/badge/Click-0066FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...)
-![Uzum%20Pay](https://img.shields.io/badge/Uzum%20Pay-FFD600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...)
-![Multicard](https://img.shields.io/badge/Multicard-6E44FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...)
-![Paynet](https://img.shields.io/badge/Paynet-00C36A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...)
-
-
-*Experienced in integrating multiple payment gateways for production applications*
-
-</div>
-
-</details>
+<sub>🔒 Source code is private. I am happy to walk through any project in a video call.</sub>
 
 ---
 
-## 🏗️ Architecture & System Design
-
-### Expertise Areas
-
-<table>
-<tr>
-<td width="50%">
-
-#### Backend Architecture
-- ✅ **Layered Architecture** (Controller → Service → Repository)
-- ✅ **Microservices** design patterns
-- ✅ **Event-Driven Architecture** (Redis Streams)
-- ✅ **RESTful API** design principles
-- ✅ **JWT Authentication** & Authorization
-- ✅ **Database Optimization** (Indexing, Query optimization)
-- ✅ **Caching Strategies** (Redis, Cache layers)
-
-</td>
-<td width="50%">
-
-#### System Design Patterns
-- ✅ **WebSocket Hub** pattern (Room-based messaging)
-- ✅ **Producer-Consumer** (Redis Streams)
-- ✅ **Repository Pattern** (Data access abstraction)
-- ✅ **Dependency Injection**
-- ✅ **Async Task Processing** (Celery)
-- ✅ **API Gateway** patterns
-- ✅ **Service-Oriented Architecture**
-
-</td>
-</tr>
-</table>
-
-### Real-World Implementations
-
-#### 🎯 High-Performance Go Microservices
-- **WebSocket Hub**: Thread-safe room management with mutex-based concurrency
-- **Redis Streams Consumer**: Event-driven notification system with consumer groups
-- **MongoDB Repository**: Optimized data access with proper indexing
-- **JWT Integration**: Cross-service authentication with Django backend
-
-#### 🎯 Scalable Django Applications
-- **REST API Architecture**: Comprehensive Django REST Framework implementations
-- **Payment Integration**: Multiple payment gateway integrations (Payme, Click, Uzum, Multicard)
-- **Background Processing**: Celery task queues with Redis broker
-- **Caching Layer**: Redis caching for performance optimization
-- **API Documentation**: Swagger/OpenAPI documentation with drf-yasg
-
-#### 🎯 Java/Spring Boot Applications
-- **Spring Boot Microservices**: E-commerce application with layered architecture
-- **RESTful APIs**: Clean REST API design with Spring Data JPA
-- **Database Integration**: PostgreSQL and H2 database support
-- **Docker Deployment**: Containerized Spring Boot applications
-- **CI/CD Integration**: GitHub Actions for automated testing and deployment
-
----
-
-## 💼 Featured Projects
-
-<details>
-<summary><b>📚 Education Platforms - Multi-Service Architecture</b></summary>
-
-### Edu-NeoSoft Platform
-
-**Architecture:** Microservices | Event-Driven | Real-Time Communication
-
-**Backend Services:**
-- **Django REST API**: Core business logic, authentication, payment processing
-- **Go Chat Service**: Real-time WebSocket messaging with MongoDB persistence
-- **Go Notification Service**: Redis Streams-based event-driven notifications
-
-**Frontend Applications:**
-- **Student UI**: React + TypeScript application
-- **Mentor UI**: React + TypeScript application
-- **Admin Dashboard**: Management interfaces
-
-**Key Features:**
-- Real-time chat with WebSocket (room-based, presence tracking, read receipts)
-- Event-driven notifications via Redis Streams
-- JWT authentication across services
-- **Multiple Payment Gateway Integrations**: Payme, Click, Uzum Pay
-- Video streaming integration (VdoCipher)
-- Comprehensive API documentation (Swagger/OpenAPI)
-- Postman collections for API testing
-
-**Technologies:** Django, Go, React, TypeScript, PostgreSQL, MongoDB, Redis, WebSocket, Docker, Postman
-
-</details>
-
-<details>
-<summary><b>🏠 Property Management Platform - Full Stack Solution</b></summary>
-
-### MHP (Master Homes Platform)
-
-**Architecture:** Monolithic Backend + Multiple Frontend Applications + Microservices
-
-**Components:**
-- **Django REST API**: Comprehensive property management backend
-- **CRM System**: React + TypeScript + Material-UI
-- **Analytics Dashboard**: Data visualization and reporting
-- **Public UI**: Customer-facing property listings
-- **Go Property Finder Service**: Microservice for property search
-
-**Key Features:**
-- Property management and listings
-- CRM functionality for agents
-- Analytics and reporting dashboards
-- Payment integration
-- Real-time updates
-- Multi-language support
-
-**Technologies:** Django, React, TypeScript, Go, PostgreSQL, Redis, Material-UI, Docker
-
-</details>
-
-<details>
-<summary><b>🚗 Parking Management System</b></summary>
-
-### Parking24 Dashboard
-
-**Modern parking management platform with real-time capabilities**
-
-**Key Features:**
-- Real-time parking tracking
-- QR code generation and scanning
-- Maps integration (Leaflet, Yandex Maps)
-- Analytics and reporting (Chart.js, ApexCharts)
-- Invoice management
-- Multi-tenant architecture
-
-**Technologies:** React, TypeScript, Ant Design, Redux Toolkit, WebSocket, Leaflet, Docker
-
-</details>
-
-<details>
-<summary><b>🎓 Education Platform API</b></summary>
-
-### BIMUZ API
-
-**Comprehensive Django REST API for education platform**
-
-**Features:**
-- User management (Students, Employees)
-- Education module (Groups, Lessons, Bookings)
-- **Payment Integration**: Multicard payment gateway
-- JWT authentication and authorization
-- Redis caching
-- Celery background tasks
-- API documentation (Swagger/ReDoc)
-- **Postman Collection**: Complete API testing collection
-
-**Technologies:** Django, Django REST Framework, PostgreSQL, Redis, Celery, Docker, Postman
-
-</details>
-
-<details>
-<summary><b>🛒 E-Commerce Application - Spring Boot</b></summary>
-
-### Spring Boot E-Commerce Platform
-
-**Modern RESTful e-commerce application built with Spring Boot**
-
-**Architecture:**
-- **Layered Architecture**: Controller → Service → Repository pattern
-- **Spring Data JPA**: Database abstraction layer
-- **RESTful API Design**: Clean API endpoints with proper HTTP methods
-- **Docker Support**: Containerized deployment
-
-**Key Features:**
-- User management with role-based access (CUSTOMER, ADMIN)
-- Product catalog with search functionality
-- Shopping cart management
-- Order processing and status tracking
-- Address management
-- Inventory tracking
-
-**Technologies:** Java 21, Spring Boot 4.0, Spring Data JPA, PostgreSQL, H2, Maven, Docker, GitHub Actions
-
-</details>
-
----
-
-## 💳 Payment Gateway Integration Experience
-
-I have extensive experience integrating multiple payment gateways for production applications in Uzbekistan's market:
-
-### Integrated Payment Gateways
-
-| Gateway | Experience | Use Cases |
-|:---:|:---:|:---|
-| **Payme** | ✅ Production | Education platforms, E-commerce |
-| **Click** | ✅ Production | Education platforms, Service payments |
-| **Uzum Pay** | ✅ Production | Education platforms, Digital services |
-| **Multicard** | ✅ Production | Education platforms, Property management |
-| **Paynet** | ✅ Experience | Parking systems, Utilities |
-
-### Implementation Features
-
-- **Unified Payment Interface**: Single API endpoint supporting multiple gateways
-- **Transaction Management**: Order creation, payment processing, callback handling
-- **Status Tracking**: Payment status monitoring and updates
-- **Error Handling**: Comprehensive error handling and retry mechanisms
-- **Security**: Secure payment processing with proper authentication
-- **Testing**: Postman collections for payment gateway testing
-
-### Technical Implementation
-
-```python
-# Example: Multi-gateway payment integration
-- Django/Python payment services
-- Transaction model design
-- Callback URL handling
-- Payment status verification
-- Refund processing capabilities
-- Webhook integration
-```
-
----
-
-## 🎯 Technical Skills Breakdown
-
-```
-Backend Development      ████████████████████ 95%
-  • Django/Python        ████████████████████ 95%
-  • Go (Golang)          ████████████████░░░░ 80%
-  • Java/Spring Boot     ██████████████░░░░░░ 70%
-  • REST API Design      ████████████████████ 95%
-  • Microservices        ██████████████████░░ 90%
-  • Payment Integration  ██████████████████░░ 90%
-
-Frontend Development     ████████████████████ 90%
-  • React                ████████████████████ 95%
-  • TypeScript           ██████████████████░░ 90%
-  • State Management     ██████████████████░░ 90%
-  • Modern UI Libraries  ██████████████████░░ 90%
-
-Database & Storage       ████████████████░░░░ 80%
-  • PostgreSQL           ████████████████░░░░ 85%
-  • MongoDB              ██████████████░░░░░░ 75%
-  • Redis                ████████████████░░░░ 80%
-  • Query Optimization   ████████████████░░░░ 80%
-
-DevOps & Infrastructure  ████████████████░░░░ 80%
-  • Docker               ████████████████░░░░ 85%
-  • Kubernetes           ████████████░░░░░░░░ 65%
-  • CI/CD                ████████████░░░░░░░░ 65%
-  • Linux                ██████████████░░░░░░ 75%
-  • System Design        ██████████████████░░ 90%
-
-Security & Testing       ████████████████░░░░ 85%
-  • JWT/OAuth            ████████████████░░░░ 85%
-  • API Security         ████████████████░░░░ 85%
-  • Postman              ██████████████████░░ 90%
-  • Testing              ████████████████░░░░ 80%
-```
-
----
-
-## 🚀 Key Achievements & Practices
-
-### Code Quality & Best Practices
-- ✅ **Type Safety**: Full TypeScript coverage in frontend projects
-- ✅ **Testing**: Unit tests, integration tests (Go, Python)
-- ✅ **Error Handling**: Comprehensive error handling patterns
-- ✅ **Code Organization**: Clean architecture, separation of concerns
-- ✅ **Documentation**: API documentation, README files, code comments
-
-### System Design Excellence
-- ✅ **Microservices Architecture**: Designed and implemented multiple microservices
-- ✅ **Real-Time Systems**: WebSocket implementations with hub pattern
-- ✅ **Event-Driven Systems**: Redis Streams for event processing
-- ✅ **Database Design**: Optimized schemas with proper indexing
-- ✅ **Performance Optimization**: Caching strategies, query optimization
-
-### Production-Ready Solutions
-- ✅ **Containerization**: Docker and Docker Compose setups, Kubernetes experience
-- ✅ **Authentication & Security**: JWT, OAuth, secure API design, security best practices
-- ✅ **Payment Integration**: Multiple payment gateway integrations (Payme, Click, Uzum, Multicard)
-- ✅ **API Design**: RESTful APIs with comprehensive documentation (Swagger/OpenAPI)
-- ✅ **API Testing**: Postman collections with automated testing workflows
-- ✅ **Scalability**: Designed for horizontal scaling, cloud-ready architectures
-- ✅ **Java/Spring Boot**: Enterprise-grade applications with Spring Boot framework
-
----
-
----
-
-## 🎯 Current Focus & Goals
-
-### 🔨 Current Focus
-- Building scalable microservices architectures
-- Developing high-performance real-time communication systems
-- Creating modern, type-safe frontend applications
-- Optimizing database queries and system performance
-- Learning cloud-native technologies and best practices
-
-### 🎯 2026 Goals
-- [ ] Contribute more to open-source projects
-- [ ] Master advanced system design patterns
-- [ ] Deep dive into Kubernetes and cloud-native technologies
-- [ ] Expand cloud platform expertise (AWS, GCP, Azure)
-- [ ] Build and launch personal SaaS projects
-- [ ] Share knowledge through technical blog posts
-- [ ] Achieve deeper expertise in distributed systems
-- [ ] Enhance security expertise and certifications
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-normurodov-0b886824b)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/architect_developer)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shod_developer)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilshod1405)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Favorite Quote
-
-> *"The best code is not just working code, but code that is maintainable, scalable, and well-architected."*
-
----
-
-**⭐ If you find my work interesting, feel free to give my repositories a star!**
-
-*Last Updated: January 2026*
-
-</div>
+## 🛠️ Tech Stack
+
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Data & Messaging**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Integrations**
+![Payme](https://img.shields.io/badge/Payme-00B2FF?style=flat-square)
+![Click](https://img.shields.io/badge/Click-0066FF?style=flat-square)
+![Uzum](https://img.shields.io/badge/Uzum-7000FF?style=flat-square)
+![Multicard](https://img.shields.io/badge/Multicard-6E44FF?style=flat-square)
+![E-IMZO](https://img.shields.io/badge/E--IMZO-1E88E5?style=flat-square)
+![OneID](https://img.shields.io/badge/OneID-00897B?style=flat-square)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
