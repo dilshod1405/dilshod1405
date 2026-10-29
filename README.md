@@ -48,6 +48,7 @@ Most of my work is commercial and lives in **private GitLab repositories**. I do
 | [Edu NeoSoft](https://github.com/dilshod1405/my-real-projects/tree/main/edu-neosoft) | Online education platform with Go chat & notification microservices | Django, Go, Redis Streams, Next.js |
 | [Master Homes](https://github.com/dilshod1405/my-real-projects/tree/main/master-homes) | Dubai real-estate platform, CRM, listing sync and landing pages | Django, Next.js, React |
 | [Edge24 / ioEdge](https://github.com/dilshod1405/my-real-projects/tree/main/edge24) | EdgeOps platform for managing fleets of edge devices | C++, Go, React |
+| [MediaStom](https://github.com/dilshod1405/my-real-projects/tree/main/mediastom/mediastom) | Dental clinic platform: online booking, tooth-chart treatment history, SMS reminders, smart waitlist | Next.js, Prisma, Telegram Mini App |
 | [Helmet Detector](https://github.com/dilshod1405/my-real-projects/tree/main/uzrailways/helmet-detector) | Worker-safety monitoring for Uzbekistan Railways with YOLOv8 + face recognition | FastAPI, YOLOv8, pgvector |
 
 <sub>🔒 Source code is private. I am happy to walk through any project in a video call.</sub>
